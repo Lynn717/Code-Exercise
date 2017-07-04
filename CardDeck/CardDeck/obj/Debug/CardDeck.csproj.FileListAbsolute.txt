@@ -1,0 +1,5 @@
+c:\users\michael\documents\visual studio 2017\Projects\CardDeck\CardDeck\bin\Debug\CardDeck.exe.config
+c:\users\michael\documents\visual studio 2017\Projects\CardDeck\CardDeck\bin\Debug\CardDeck.exe
+c:\users\michael\documents\visual studio 2017\Projects\CardDeck\CardDeck\bin\Debug\CardDeck.pdb
+c:\users\michael\documents\visual studio 2017\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.exe
+c:\users\michael\documents\visual studio 2017\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.pdb
