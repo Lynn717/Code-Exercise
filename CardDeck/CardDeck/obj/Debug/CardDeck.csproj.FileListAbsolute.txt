@@ -3,3 +3,5 @@ c:\users\michael\documents\visual studio 2017\Projects\CardDeck\CardDeck\bin\Deb
 c:\users\michael\documents\visual studio 2017\Projects\CardDeck\CardDeck\bin\Debug\CardDeck.pdb
 c:\users\michael\documents\visual studio 2017\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.exe
 c:\users\michael\documents\visual studio 2017\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CardDeck\CardDeck\obj\Debug\CardDeck.csproj.CoreCompileInputs.cache

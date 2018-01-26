@@ -13,3 +13,4 @@ C:\Users\Michael\documents\visual studio 2017\Projects\CardDeck\UnitTestProject1
 C:\Users\Michael\documents\visual studio 2017\Projects\CardDeck\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\Michael\documents\visual studio 2017\Projects\CardDeck\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\Michael\documents\visual studio 2017\Projects\CardDeck\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\CardDeck\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache

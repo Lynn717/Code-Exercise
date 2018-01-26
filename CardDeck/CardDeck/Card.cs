@@ -9,26 +9,23 @@ namespace CardDeck
 
     public class Card
     {
-        private int cardValue;
-        private string cardName;
         private string cardSuit;
+        private Tuple<int, string> cardNameValue; //together so you can determine value with name
 
-        public Card(int value, string name, string suit) {
-            cardValue = value;
-            cardName = name;
+        //private string cardName;
+       //private string cardSuit;
+
+        public Card(string suit, Tuple<int, string> nameValue) {
             cardSuit = suit;
+            cardNameValue = nameValue;
         }
 
-        public int getCardValue(){
-            return cardValue;
-        }
-        public string getCardName()
-        {
-            return cardName;
-        }
-        public string getCardSuit()
-        {
+        public string getCardSuit(){
             return cardSuit;
+        }
+        public Tuple<int, string> getCardNameValue()
+        {
+            return cardNameValue;
         }
     }
 }

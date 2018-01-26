@@ -1,0 +1,5 @@
+1.	Must provide a standard deck of 52 playing cards, with 4 suits.
+2.	Must be able to sort the deck in ascending order.
+a.	You are free to determine what the term Ågascending orderÅh means for a deck of cards, but be ready to discuss your choice.
+3.	Must be able to randomly shuffle the deck of cards.
+4.	Must Provided unit test.
